@@ -1,0 +1,50 @@
+body {
+    background-color: antiquewhite;
+}
+.Post {
+    width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 2px;
+    border: solid; 1px
+}
+.post-header {
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    width: 100%;
+}
+.headerPost1 {
+    display: flex;
+}
+.iconHeader {
+    margin-top: 30px;
+    padding: 20px;
+    font-size: 25px;
+}
+.optionMenuIcon {
+    margin-top: 30px;
+    padding: 20px;
+    font-size: 25px;
+}
+.iconsPost {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.namePost {
+    padding: 5px;
+}
+.namePost p {
+    font-size: 20px;
+}
+i.fa-regular.fa-heart {
+    margin-right: 5px;
+}
+i.fa-regular.fa-comment {
+    margin-right: 5px;
+}
+.namePost h1 {
+    padding-bottom: 0px;
+}
